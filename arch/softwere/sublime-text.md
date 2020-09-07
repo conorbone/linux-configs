@@ -1,3 +1,9 @@
+
+# Update
+
+just use flatpak
+
+
 Installation
 
 Install the GPG key:
